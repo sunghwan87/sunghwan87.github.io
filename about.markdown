@@ -36,4 +36,4 @@ permalink: /about/
 * Programming: Python, R, MATLAB, C, C++
 * Web: HTML, CSS, JavaScript
 
-[CV pdf file](_site/assets/Resume_20210806.pdf)
+[CV pdf file](/assets/Resume_20210806.pdf)
