@@ -18,12 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Email
+title: Sunghwan Kim
 email: sunghwan87@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Ph.D. Student @GSMSE, KAIST
-  M.D. (psychiatry)
-  Neuroimaging | Computational psychiatry
+  Ph.D. Student @GSMSE, KAIST & M.D. (psychiatry)
+  Interested in neuroimaging and computational psychiatry
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sunghwan87
