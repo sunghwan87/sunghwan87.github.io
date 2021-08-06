@@ -32,4 +32,8 @@ permalink: /about/
 * Computational psychiatry course, Zurich, Switzerland (2019)
 * FSL course, Oxford, UK (2018)
 
+#Technical Skills
+* Programming: Python, R, MATLAB, C, C++
+* Web: HTML, CSS, JavaScript
+
 [CV pdf file](./assets/cv.pdf)
