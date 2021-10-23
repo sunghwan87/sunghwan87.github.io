@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "KNPA 2021 Fall: oral presentation"
+date:   2021-10-22 10:00:00 +0900
+categories: jekyll update
+---
+KNPA 2021 Fall oral presentation  
+Deep learning-based depression and suicidal ideation prediction model.
