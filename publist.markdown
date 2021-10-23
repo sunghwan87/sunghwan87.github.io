@@ -19,6 +19,5 @@ permalink: /publist/
 1. [C-2021-016995] 청년기 우울증 예측을 위한 인공지능 및 웹 기반 플랫폼 Web-based platform to predict young adult depression using artificial intelligence
 
 ## Patents
-1. [출원 중]
-
+1. [출원 중] 김민철, 김성환, 정범석, 이경욱, 베이지안 학습 모델을 이용한 불안장애 평가 방법 및 시스템, Method and system for evaluating anxiety disorders using bayesian learning model, 2020
 
